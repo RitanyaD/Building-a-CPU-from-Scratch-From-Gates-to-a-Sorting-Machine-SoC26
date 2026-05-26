@@ -111,7 +111,7 @@ There are other configurations, like the Carry Look Ahead Adder, which deal with
 Binary addition of single bits without carry is exactly the same as modulo-2 addition
 Sometimes the $\oplus$, which is used to represent xor, is synonymously used as modulo 2 addition in math and computer science.
 
-$$ a^b = a \oplus b = (a+b)mod2$$
+$$ a \^ b = a \oplus b = (a+b)mod2$$
 
 ---
 
