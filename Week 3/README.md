@@ -18,6 +18,9 @@ a state table, and implement it cleanly in Verilog.
 | §6.3    | Mealy State Model              |
 | §6.4    | Design of FSMs using CAD tools |
 
+**Additional mandatory readup** - 
+https://emlogic.no/2023/12/designing-fsms-in-vhdl/
+
 ---
 
 ## HDLBits Exercises
@@ -36,3 +39,8 @@ Work through them in this order:
 - Simple one-hot state transitions
 - Design a Mealy FSM
 - Serial two's complementer (Mealy FSM)
+
+
+## Assignment
+
+Work out the Lemmings problem in HDLBits - All 4 parts.
